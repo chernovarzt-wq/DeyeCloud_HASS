@@ -1,5 +1,6 @@
 {
   "name": "Deye Cloud",
   "render_readme": true,
-  "domains": ["sensor", "switch", "select"]
+  "domains": ["sensor"],
+  "homeassistant": "2024.11.0"
 }

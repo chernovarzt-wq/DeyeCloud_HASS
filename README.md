@@ -1,5 +1,7 @@
 # Deye Cloud Home Assistant Integration
 
+> **v1.2.1:** fixes inverter discovery (`deviceListItems`), telemetry parsing (`deviceDataList` / `dataList`), station sensors and the options-flow error on Home Assistant 2025.12+. This release is **read-only** (sensors only); control entities are temporarily disabled. See [CHANGELOG.md](CHANGELOG.md).
+
 A custom Home Assistant integration for Deye Cloud solar inverters and energy storage systems.
 
 ## Features
